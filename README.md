@@ -1,41 +1,42 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!%20%F0%9F%91%8B&fontSize=60" width="100%"/>
-</div>
+<h1 align="center">Gurman Singh</h1>
+<h4 align="center">Systems Software Engineer | High-Performance C++ | AI Inference</h4>
 
-<h1 align="center">I'm Lagmator22</h1>
-<h3 align="center">C++ Developer & Open Source Enthusiast 🚀</h3>
+<br>
 
 <p align="center">
-  <a href="https://holopin.io/@lagmator22">
-    <img src="https://holopin.me/lagmator22" alt="Holopin Badges">
-  </a>
+  <a href="https://www.linkedin.com/in/gurman-s-3002a1252/">LinkedIn</a> • 
+  <a href="https://github.com/Lagmator22">GitHub</a>
 </p>
 
----
+<br>
 
-### 👨‍💻 About Me
-* 🔭 I’m currently working on **[OvaSearch](https://github.com/Lagmator22/OvaSearch)** and **[TopK-NaN-OpenVINO](https://github.com/Lagmator22/TopK-NaN-OpenVINO)**.
-* 🌱 Gearing up for **Google Summer of Code (GSoC) 2026** focusing on OpenVINO optimization.
-* 👯 I’m actively contributing to **[openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)**.
-* 💬 Ask me about **C++, CMake, and AI Inference**.
-* 📫 How to reach me: [LinkedIn](#) *(Add your link here)*
+### Engineering Focus
+I specialize in low-level systems programming, hardware-accelerated AI inference, and building localized applications. My work involves bypassing high-level abstractions to achieve native compute performance through pristine C++ architecture and memory optimization.
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<br>
+
+### Featured Projects
+
+#### [OvaSearch](https://github.com/Lagmator22/OvaSearch)
+*A localized, privacy-first AI search engine built from scratch in C++.*
+- Implements custom inference pipelines with an architecture designed for AIPC and Cloud hybrid offloading.
+- Focuses on bypassing traditional Python overhead to achieve native, hardware-accelerated execution latency.
+
+#### [Lisper](https://github.com/Lagmator22/Lisper)
+*Local transcription studio built with Whisper.cpp and C++.*
+- Working intimately with raw C/C++ implementations of OpenAI's Whisper model to deeply understand and optimize local speech-to-text.
+- Optimized for bare-metal memory allocation and matrix multi-threading to achieve high-performance edge inference.
+
+<br>
+
+### Technical Capabilities
+- **Languages:** C++ (14/17/20), C, Python, Shell
+- **Systems & Build:** CMake, Git, Linux Internals, multi-threading architectures
+- **AI & Mathematics:** Whisper.cpp, ONNX, Tensor mathematical operations, Memory Profiling
+
+<br>
+<br>
+
+<p align="center">
+  <i>"Simplicity is the ultimate sophistication."</i>
 </p>
-
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lagmator22&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Lagmator22's GitHub stats" height="192"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lagmator22&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="192"/>
-</div>
-
-### 🌟 Latest Open Source Contributions
-- **[PR #34841]** `[Refactoring] Fix common spelling typos in core components` (OpenVINO)
-- **[Issue #34840]** `[Feature Request]: [POC] Introduce v17::TopK with Deterministic NaN Handling Enum` (OpenVINO)
-- **[PR #33633]** `[Docs] Extend TopK spec with NaN handling info` (OpenVINO)
