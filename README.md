@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=60" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Hello+World!;I'm+Lagmator22;C%2B%2B+Systems+Engineer;Building+AI+Inference+Engines" alt="Animated Typing Header" />
 </div>
-
-<h3 align="center">Systems Software Engineer | High-Performance C++ | AI Inference</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gurman-s-3002a1252/">LinkedIn</a> • 
