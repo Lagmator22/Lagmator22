@@ -3,13 +3,12 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gurman-s-3002a1252/">LinkedIn</a> • 
-  <a href="https://github.com/Lagmator22">GitHub</a>
+  <a href="https://www.linkedin.com/in/gurman-s-3002a1252/">LinkedIn</a>
 </p>
 
 ---
 
-### 👨‍💻 Engineering Focus
+### Engineering Focus
 I specialize in low-level systems programming, hardware-accelerated AI inference, and building localized applications. My work involves bypassing high-level abstractions to achieve native compute performance through pristine C++ architecture and memory optimization.
 
 ### 🏗️ Featured Projects
@@ -38,7 +37,15 @@ I specialize in low-level systems programming, hardware-accelerated AI inference
 ### 📈 GitHub Stats & Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lagmator22&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Lagmator22's GitHub stats" height="192"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lagmator22&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="192"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lagmator22&layout=donut&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages Donut Chart" height="192"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lagmator22/Lagmator22/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lagmator22/Lagmator22/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lagmator22/Lagmator22/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ### 🌟 Hacktoberfest & Open Source Badges
