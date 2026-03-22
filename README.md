@@ -1,6 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Hello+World!;I'm+Lagmator22;C%2B%2B+Systems+Engineer;Building+AI+Inference+Engines" alt="Animated Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Hello+World!" alt="Animated Typing Header" />
 </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lagmator22/Lagmator22/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lagmator22/Lagmator22/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lagmator22/Lagmator22/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gurman-s-3002a1252/">LinkedIn</a>
@@ -40,13 +49,6 @@ I specialize in low-level systems programming, hardware-accelerated AI inference
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lagmator22&layout=donut&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages Donut Chart" height="192"/>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lagmator22/Lagmator22/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lagmator22/Lagmator22/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lagmator22/Lagmator22/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ### 🌟 Hacktoberfest & Open Source Badges
 <p align="center">
