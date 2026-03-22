@@ -6,7 +6,8 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gurman-s-3002a1252/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/gurman-s-3002a1252/">LinkedIn</a> |
+  <a href="https://discordapp.com/users/787266956449153024">Discord</a>
 </p>
 
 ---
