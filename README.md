@@ -1,8 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Hello+World!" alt="Animated Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=hello+world" alt="Animated Typing Header" />
 </div>
 
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lagmator22/Lagmator22/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lagmator22/Lagmator22/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lagmator22/Lagmator22/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 
 <p align="center">
@@ -40,8 +46,8 @@ I specialize in low-level systems programming, hardware-accelerated AI inference
 
 ### 📈 GitHub Stats & Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lagmator22&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Lagmator22's GitHub stats" height="192"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lagmator22&layout=donut&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages Donut Chart" height="192"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lagmator22&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Lagmator22's GitHub stats" height="192"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lagmator22&layout=donut&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages Donut Chart" height="192"/>
 </div>
 
 
@@ -51,11 +57,3 @@ I specialize in low-level systems programming, hardware-accelerated AI inference
     <img src="https://holopin.me/lagmator22" alt="Holopin Badges">
   </a>
 </p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lagmator22/Lagmator22/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lagmator22/Lagmator22/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lagmator22/Lagmator22/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
