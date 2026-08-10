@@ -18,23 +18,23 @@
 ---
 
 ### $\color{#00C853}{\textsf{About Me:}}$
-Hey! I'm Gurman - a low-level systems programmer and AI developer.
+Hey! I'm Gurman, a low-level systems programmer and AI developer.
 
 I'm passionate about bypassing high-level abstractions to achieve native compute performance through pristine C++ architecture and memory optimization.
 
-### $\color{#3776AB}{\textsf{Currently working on:}}$
-- Building the OpenVINO Agentic Toolkit (OVAT) @ Intel.
+### $\color{#b388ff}{\textsf{Currently working on:}}$
+- Building the OpenVINO Agentic Toolkit (OVAT)
 - Developing localized, privacy-first AI search engines.
 
 ---
 
-### <img src="./glowing-project.svg" width="24" height="24" align="center" /> Featured Projects
+### <img src="./glowing-project.svg" width="28" height="28" align="center" /> Featured Projects
 
 - **[OvaSearch](https://github.com/Lagmator22/OvaSearch):** Localized AI search engine built from scratch in C++. Custom inference pipelines for AIPC & Cloud offloading.
 - **[Lisper](https://github.com/Lagmator22/Lisper):** Local transcription studio built with Whisper.cpp and C++. Optimized for bare-metal memory allocation.
 - **[OVAT](https://github.com/Lagmator22/ovat):** The OpenVINO Agentic Toolkit. Turn tool-calling agent boilerplate into `ovat run workflow.yml`.
 
-### <img src="./glowing-tech.svg" width="24" height="24" align="center" /> Technical Capabilities
+### <img src="./glowing-tech.svg" width="28" height="28" align="center" /> Technical Capabilities
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -45,14 +45,14 @@ I'm passionate about bypassing high-level abstractions to achieve native compute
 
 ---
 
-### <img src="./glowing-stats.svg" width="24" height="24" align="center" /> GitHub Stats & Languages
+### <img src="./glowing-stats.svg" width="28" height="28" align="center" /> GitHub Stats & Languages
 <div align="center">
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Lagmator22&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Lagmator22's GitHub stats" height="192"/>
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Lagmator22&layout=donut&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages Donut Chart" height="192"/>
 </div>
 
 
-### <img src="./glowing-badges.svg" width="24" height="24" align="center" /> Hacktoberfest & Open Source Badges
+### <img src="./glowing-badges.svg" width="28" height="28" align="center" /> Hacktoberfest & Open Source Badges
 <p align="center">
   <a href="https://holopin.io/@lagmator22">
     <img src="https://holopin.me/lagmator22" alt="Holopin Badges">
