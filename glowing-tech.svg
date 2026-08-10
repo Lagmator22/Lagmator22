@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <style>
+    @keyframes pulse-tech {
+      0%, 100% { filter: drop-shadow(0 0 2px #00C853) drop-shadow(0 0 5px #00C853); }
+      50% { filter: drop-shadow(0 0 4px #69f0ae) drop-shadow(0 0 8px #69f0ae); }
+    }
+    .glow-icon {
+      animation: pulse-tech 2s infinite ease-in-out;
+      transform-origin: center;
+    }
+  </style>
+  <g class="glow-icon">
+    <path fill="none" stroke="#00C853" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M12 2v4m0 12v4M2 12h4m12 0h4m-3.8-7.8l-2.8 2.8m-8.4 8.4l-2.8 2.8m0-14l2.8 2.8m8.4 8.4l2.8 2.8M12 16a4 4 0 1 0 0-8 4 4 0 0 0 0 8z" />
+  </g>
+</svg>

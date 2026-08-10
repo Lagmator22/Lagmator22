@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <style>
+    @keyframes pulse-stats {
+      0%, 100% { filter: drop-shadow(0 0 2px #d2a8ff) drop-shadow(0 0 5px #d2a8ff); }
+      50% { filter: drop-shadow(0 0 4px #e5c3ff) drop-shadow(0 0 8px #e5c3ff); }
+    }
+    .glow-icon {
+      animation: pulse-stats 2.5s infinite ease-in-out;
+      transform-origin: center;
+    }
+  </style>
+  <g class="glow-icon">
+    <polyline fill="none" stroke="#d2a8ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="4 19 10 13 14 17 20 7" />
+    <polyline fill="none" stroke="#d2a8ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="14 7 20 7 20 13" />
+    <path fill="none" stroke="#d2a8ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M4 22h16" />
+  </g>
+</svg>
