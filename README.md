@@ -24,7 +24,7 @@ I'm passionate about bypassing high-level abstractions to achieve native compute
 
 ---
 
-### <img src="./glowing-project.svg" width="28" height="28" align="center" /> $\color{#b388ff}{\textsf{Featured Projects}}$
+### $\color{#b388ff}{\textsf{Featured Projects}}$
 
 - **[OvaSearch](https://github.com/Lagmator22/OvaSearch):** Localized AI search engine built from scratch in C++. Custom inference pipelines for AIPC & Cloud offloading.
 - **[Lisper](https://github.com/Lagmator22/Lisper):** Local transcription studio built with Whisper.cpp and C++. Optimized for bare-metal memory allocation.
