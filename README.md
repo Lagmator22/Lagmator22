@@ -46,8 +46,8 @@ I specialize in low-level systems programming, hardware-accelerated AI inference
 
 ### 📈 GitHub Stats & Languages
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lagmator22&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Lagmator22's GitHub stats" height="192"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lagmator22&layout=donut&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages Donut Chart" height="192"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Lagmator22&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Lagmator22's GitHub stats" height="192"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Lagmator22&layout=donut&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages Donut Chart" height="192"/>
 </div>
 
 
