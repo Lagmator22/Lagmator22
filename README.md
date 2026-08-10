@@ -22,13 +22,9 @@ Hey! I'm Gurman, a low-level systems programmer and AI developer.
 
 I'm passionate about bypassing high-level abstractions to achieve native compute performance through pristine C++ architecture and memory optimization.
 
-### $\color{#b388ff}{\textsf{Currently working on:}}$
-- Building the OpenVINO Agentic Toolkit (OVAT)
-- Developing localized, privacy-first AI search engines.
-
 ---
 
-### <img src="./glowing-project.svg" width="28" height="28" align="center" /> Featured Projects
+### <img src="./glowing-project.svg" width="28" height="28" align="center" /> $\color{#b388ff}{\textsf{Featured Projects}}$
 
 - **[OvaSearch](https://github.com/Lagmator22/OvaSearch):** Localized AI search engine built from scratch in C++. Custom inference pipelines for AIPC & Cloud offloading.
 - **[Lisper](https://github.com/Lagmator22/Lisper):** Local transcription studio built with Whisper.cpp and C++. Optimized for bare-metal memory allocation.
