@@ -21,7 +21,7 @@
 ### Engineering Focus
 I specialize in low-level systems programming, hardware-accelerated AI inference, and building localized applications. My work involves bypassing high-level abstractions to achieve native compute performance through pristine C++ architecture and memory optimization.
 
-### 🏗️ Featured Projects
+### <img src="./glowing-project.svg" width="24" height="24" align="center" /> Featured Projects
 
 #### [OvaSearch](https://github.com/Lagmator22/OvaSearch)
 *A localized, privacy-first AI search engine built from scratch in C++.*
