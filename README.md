@@ -10,7 +10,6 @@
   </picture>
 </div>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/gurman-s-3002a1252/">LinkedIn</a> |
   <a href="https://discordapp.com/users/787266956449153024">Discord</a>
@@ -18,20 +17,22 @@
 
 ---
 
-### Engineering Focus
-I specialize in low-level systems programming, hardware-accelerated AI inference, and building localized applications. My work involves bypassing high-level abstractions to achieve native compute performance through pristine C++ architecture and memory optimization.
+### $\color{#00C853}{\textsf{About Me:}}$
+Hey! I'm Gurman - a low-level systems programmer and AI developer.
+
+I'm passionate about bypassing high-level abstractions to achieve native compute performance through pristine C++ architecture and memory optimization.
+
+### $\color{#3776AB}{\textsf{Currently working on:}}$
+- Building the OpenVINO Agentic Toolkit (OVAT) @ Intel.
+- Developing localized, privacy-first AI search engines.
+
+---
 
 ### <img src="./glowing-project.svg" width="24" height="24" align="center" /> Featured Projects
 
-#### [OvaSearch](https://github.com/Lagmator22/OvaSearch)
-*A localized, privacy-first AI search engine built from scratch in C++.*
-- Implements custom inference pipelines with an architecture designed for AIPC and Cloud hybrid offloading.
-- Focuses on bypassing traditional Python overhead to achieve native latency.
-
-#### [Lisper](https://github.com/Lagmator22/Lisper)
-*Local transcription studio built with Whisper.cpp and C++.*
-- Working intimately with raw C/C++ implementations of OpenAI's Whisper model to deeply understand and optimize local speech-to-text.
-- Optimized for bare-metal memory allocation and matrix multi-threading.
+- **[OvaSearch](https://github.com/Lagmator22/OvaSearch):** Localized AI search engine built from scratch in C++. Custom inference pipelines for AIPC & Cloud offloading.
+- **[Lisper](https://github.com/Lagmator22/Lisper):** Local transcription studio built with Whisper.cpp and C++. Optimized for bare-metal memory allocation.
+- **[OVAT](https://github.com/Lagmator22/ovat):** The OpenVINO Agentic Toolkit. Turn tool-calling agent boilerplate into `ovat run workflow.yml`.
 
 ### <img src="./glowing-tech.svg" width="24" height="24" align="center" /> Technical Capabilities
 <p align="left">
